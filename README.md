@@ -13,3 +13,6 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
+<h2 align="left">
+  <img src="assets/tech_stack.gif" width="30px"/> Tech Stack
+</h2>
