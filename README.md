@@ -1,5 +1,3 @@
 <p align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="assets/intro.mp4" type="video/mp4">
-  </video>
+    <img src="assets/intro.gif" alt="Intro GIF" height=300 width=1200>
 </p>
