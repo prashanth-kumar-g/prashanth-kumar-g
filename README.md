@@ -36,7 +36,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="assets/line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/projects.gif" width="30px"/> Projects
+  <img src="assets/my_projects.gif" width="30px"/> Projects
 </h2>
 <p align="center">
   <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
