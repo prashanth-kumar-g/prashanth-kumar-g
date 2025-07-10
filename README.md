@@ -49,3 +49,26 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=radical" />
   </a>
 </p>
+<p align="center">
+    <img src="assets/line.gif" width="100%">
+</p>
+<h2 align="left">
+  <img src="assets/connect_with_me.gif" width="30px"/> Connect with me
+</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/prashanth-kumar-g/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/prashanth-kumar-g" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL_NAME" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
+  </a>
+</p>
