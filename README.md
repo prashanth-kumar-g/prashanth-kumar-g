@@ -38,3 +38,14 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/projects.gif" width="30px"/> Projects
 </h2>
+<p align="center">
+  <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=radical" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/tic-tac-toe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=radical" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=radical" />
+  </a>
+</p>
