@@ -43,10 +43,10 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia" />
   </a>
   <a href="https://github.com/prashanth-kumar-g/tic-tac-toe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=algolia" />
   </a>
   <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia" />
   </a>
 </p>
 <p align="center">
