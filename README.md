@@ -52,7 +52,10 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
-<p align="center">
+<h2 align="left">
+  <img src="assets/connect_with_me.gif" width="32px"/> Projects
+</h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/prashanth-kumar-g/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
