@@ -52,29 +52,27 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
-<h2 align="left">
-  <img src="assets/connect_with_me.gif" width="42px"/> Connect with me
-</h2>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/prashanth-kumar-g/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/prashanth-kumar-g" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  <a href="https://github.com/prashanth-kumar-g" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/prashanth-kumar-g/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/prashanth-kumar-g" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-      <a href="mailto:your.prashantkumarrrg777@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
+  <a href="mailto:your.prashantkumarrrg777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.youtube.com/@prashanth-kumar-g" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
+
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
 <p align="center">
-  <img src="assets/waves.svg" alt="Bottom Wave SVG" width="100%">
+  <img src="assets/waves.svg" alt="Bottom Waves SVG" width="100%">
 </p>
