@@ -8,7 +8,7 @@
   <img src="assets/about_me.gif" width="30px"/> About Me
 </h2>
 <p>
-Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong>, currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at <strong>MS Ramaiah Institute of Technology</strong>. I'm passionate about learning new technologies, solving logical problems, and exploring how software works. My interests include programming, data analysis, and creating user-friendly desktop interfaces. I’m continuously improving my skills in various programming languages and tools, and I enjoy working on academic and personal projects that challenge me to grow both technically and creatively.
+Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong>, currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at <strong>MS Ramaiah Institute of Technology</strong>. I'm passionate about <strong>learning new technologies</strong>, <strong>solving logical problems</strong>, and <strong>exploring how software works</strong>. My interests include <strong>programming</strong>, <strong>data analysis</strong>, and <strong>creating user-friendly desktop interfaces</strong>. I’m continuously <strong>improving my skills</strong> in various <strong>programming languages and tools</strong>, and I enjoy working on <strong>academic and personal projects</strong> that challenge me to grow both <strong>technically</strong> and <strong>creatively</strong>.
 </p>
 <p align="center">
     <img src="assets/line.gif" width="100%">
