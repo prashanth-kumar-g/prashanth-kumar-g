@@ -75,3 +75,6 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
+<p align="center">
+  <img src="assets/waves.svg" alt="Bottom Wave SVG" width="100%">
+</p>
