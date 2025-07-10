@@ -65,10 +65,13 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <a href="https://leetcode.com/u/prashanth-kumar-g/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
   </a>
+      <a href="mailto:your.prashantkumarrrg777@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
+  </a>
   <a href="https://www.youtube.com/@prashanth-kumar-g" target="_blank">
     <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/>
   </a>
-  <a href="mailto:your.prashantkumarrrg777@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
-  </a>
+</p>
+<p align="center">
+    <img src="assets/line.gif" width="100%">
 </p>
