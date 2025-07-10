@@ -77,7 +77,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="assets/line.gif" width="100%">
 </p>
 <p align="center">
-  💙 If you like my projects, Give them ⭐ and Share it with friends!
+  💙 If you like my projects, Give them ⭐ and Share it with friends! <br>
   Made with ❤️ in India
   <img src="assets/waves.svg" alt="Bottom Waves SVG" width="100%">
 </p>
