@@ -14,7 +14,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="assets/line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/tech_stack.gif" width="36px"/> Tech Stack
+  <img src="assets/tech_stack.gif" width="38px"/> Tech Stack
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -53,7 +53,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="assets/line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/connect_with_me.gif" width="40px"/> Connect with me
+  <img src="assets/connect_with_me.gif" width="42px"/> Connect with me
 </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/prashanth-kumar-g/" target="_blank">
