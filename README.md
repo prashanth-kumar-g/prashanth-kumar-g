@@ -38,7 +38,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/my_projects.gif" width="32px"/> Projects
 </h2>
-<p align="center">
+<p align="left">
   <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia" />
   </a>
