@@ -52,9 +52,6 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
-<p align="center">
-    <img src="assets/line.gif" width="100%">
-</p>
 <h2 align="left">
   <img src="assets/connect_with_me.gif" width="42px"/> Connect with me
 </h2>
