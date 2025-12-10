@@ -40,13 +40,13 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </h2>
 <p align="left">
   <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia" />
+    <img align="center" src="https://raw.githubusercontent.com/prashanth-kumar-g/student-attendance-management-system/main/assets/preview.png" alt="SAMS" width="300"/>
   </a>
   <a href="https://github.com/prashanth-kumar-g/tic-tac-toe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=algolia" />
+    <img align="center" src="https://raw.githubusercontent.com/prashanth-kumar-g/tic-tac-toe/main/assets/preview.png" alt="TicTacToe" width="300"/>
   </a>
   <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia" />
+    <img align="center" src="https://raw.githubusercontent.com/prashanth-kumar-g/stock-volatility-calculator/main/assets/preview.png" alt="StockVol" width="300"/>
   </a>
 </p>
 <p align="center">
