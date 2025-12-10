@@ -40,15 +40,18 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </h2>
 <p align="left">
   <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
-    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia&cb=1" />
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia" />
   </a>
   <a href="https://github.com/prashanth-kumar-g/tic-tac-toe">
-    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=algolia&cb=ts_20251209_1730" />
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=algolia" />
   </a>
   <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
-    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia&cb=3" />
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia" />
   </a>
 </p>  
+<p align="center">
+    <img src="assets/line.gif" width="100%">
+</p>
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
