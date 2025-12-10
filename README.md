@@ -39,10 +39,16 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="assets/my_projects.gif" width="32px"/> Projects
 </h2>
 <p align="left">
-  [![SAMS](https://img.shields.io/badge/Student--Attendance--Management--System-View-blue?style=for-the-badge&logo=github)](https://github.com/prashanth-kumar-g/student-attendance-management-system)
-  [![TicTacToe](https://img.shields.io/badge/Tic--Tac--Toe-View-orange?style=for-the-badge&logo=github)](https://github.com/prashanth-kumar-g/tic-tac-toe)
-  [![StockVol](https://img.shields.io/badge/Stock--Volatility--Calculator-View-green?style=for-the-badge&logo=github)](https://github.com/prashanth-kumar-g/stock-volatility-calculator)
-</p>
+  <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/tic-tac-toe">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=algolia" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia" />
+  </a>
+</p>  
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
@@ -66,7 +72,6 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
