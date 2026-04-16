@@ -8,7 +8,7 @@
   <img src="assets/about_me.gif" width="30px"/> About Me
 </h2>
 <p>
-Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong>, currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at <strong>MS Ramaiah Institute of Technology</strong>. I'm passionate about <strong>learning new technologies</strong>, <strong>solving logical problems</strong>, and <strong>exploring how software works</strong>. My interests include <strong>programming</strong>, <strong>data analysis</strong>, and <strong>creating user-friendly desktop interfaces</strong>. I’m continuously <strong>improving my skills</strong> in various <strong>programming languages and tools</strong>, and I enjoy working on <strong>academic and personal projects</strong> that challenge me to grow both <strong>technically</strong> and <strong>creatively</strong>.
+Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong>, currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at <strong>MS Ramaiah Institute of Technology</strong>. I'm passionate about <strong>learning new technologies</strong>, <strong>solving logical problems</strong>, and <strong>exploring how software works</strong>. My interests include <strong>programming</strong>, <strong>data analysis</strong>, and <strong>creating user-friendly desktop and web interfaces</strong>. I’m continuously <strong>improving my skills</strong> in various <strong>programming languages and tools</strong>, and I enjoy working on <strong>academic and personal projects</strong> that challenge me to grow both <strong>technically</strong> and <strong>creatively</strong>.
 </p>
 <p align="center">
     <img src="assets/line.gif" width="100%">
@@ -47,6 +47,12 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   </a>
   <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/ai-fire-fighting-robot-iot">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=ai-fire-fighting-robot-iot&theme=algolia" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/smart-document-analyzer">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=smart-document-analyzer&theme=algolia" />
   </a>
 </p>  
 <p align="center">
