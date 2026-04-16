@@ -48,11 +48,11 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia" />
   </a>
-  <a href="https://github.com/prashanth-kumar-g/ai-fire-fighting-robot-iot">
-    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=ai-fire-fighting-robot-iot&theme=algolia" />
-  </a>
   <a href="https://github.com/prashanth-kumar-g/smart-document-analyzer">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=smart-document-analyzer&theme=algolia" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/ai-fire-fighting-robot-iot">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=ai-fire-fighting-robot-iot&theme=algolia" />
   </a>
 </p>  
 <p align="center">
