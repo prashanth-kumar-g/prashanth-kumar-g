@@ -70,8 +70,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats-tawny-theta.vercel.app?user=prashanth-kumar-g&theme=algolia&hide_border=true" />
-
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app?user=prashanth-kumar-g&theme=algolia" alt="GitHub Streak" /></a>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" />
 </p>
 <p align="center">
