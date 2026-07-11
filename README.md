@@ -63,35 +63,17 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="100%" />
+  <img width="49%" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia&hide_border=true" />
+</p>
 
-</td>
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats-tawny-theta.vercel.app?user=prashanth-kumar-g&theme=algolia&hide_border=true" />
 
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia&hide_border=true" width="100%" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats-tawny-theta.vercel.app?user=prashanth-kumar-g&theme=algolia&hide_border=true" width="100%" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" width="100%" />
-
-</td>
-</tr>
-</table>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" />
+</p>
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
