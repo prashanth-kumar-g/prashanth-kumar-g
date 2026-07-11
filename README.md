@@ -63,14 +63,35 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
-<p align="center">
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="48%" height="195" alt="Prashanth's GitHub Stats" />
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&theme=algolia&layout=compact&hide_border=true" width="48%" height="195" alt="Prashanth's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-kumar-g&theme=algolia&hide_border=true" width="48%" height="195" alt="Prashanth's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" width="48%" height="195" alt="Prashanth's Profile Details Graph" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="100%" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia&hide_border=true" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats-tawny-theta.vercel.app?user=prashanth-kumar-g&theme=algolia&hide_border=true" width="100%" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" width="100%" />
+
+</td>
+</tr>
+</table>
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
