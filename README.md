@@ -63,14 +63,24 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
-<p align="center">
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="49%" alt="Prashanth's GitHub Stats" />
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&theme=algolia&layout=compact&hide_border=true" width="49%" alt="Prashanth's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true" width="49%" alt="Prashanth's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" width="49%" alt="Prashanth's Profile Details Graph" />
-</p>
+<table width="100%" style="border: none; border-collapse: collapse; background: transparent;" border="0" cellspacing="10" cellpadding="0">
+  <tr style="border: none; background: transparent;">
+    <td width="50%" align="center" style="border: none; padding: 5px; background: transparent;">
+      <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="450px" height="200px" alt="Prashanth's GitHub Stats" />
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 5px; background: transparent;">
+      <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&theme=algolia&layout=compact&hide_border=true" width="450px" height="200px" alt="Prashanth's Top Languages" />
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="50%" align="center" style="border: none; padding: 5px; background: transparent;">
+      <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true&v=2" width="450px" height="200px" alt="Prashanth's GitHub Streak" />
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 5px; background: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=dark" width="450px" height="200px" alt="Prashanth's Profile Details Graph" />
+    </td>
+  </tr>
+</table>
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
