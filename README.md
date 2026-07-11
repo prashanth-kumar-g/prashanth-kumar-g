@@ -77,7 +77,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
       <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true&v=2" width="450px" height="200px" alt="Prashanth's GitHub Streak" />
     </td>
     <td width="50%" align="center" style="border: none; padding: 5px; background: transparent;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=dark" width="450px" height="200px" alt="Prashanth's Profile Details Graph" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" width="450px" height="200px" alt="Prashanth's Profile Details Graph" />
     </td>
   </tr>
 </table>
