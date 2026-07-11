@@ -56,7 +56,33 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <a href="https://github.com/prashanth-kumar-g/ai-fire-fighting-robot-iot">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=ai-fire-fighting-robot-iot&theme=algolia" />
   </a>
-</p>  
+</p>
+<p align="center">
+    <img src="assets/line.gif" width="100%">
+</p>
+<h2 align="left">
+  <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
+</h2>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="60%" align="center" valign="top">
+      <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="100%" alt="Prashanth's GitHub Stats" />
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&theme=algolia&layout=compact&hide_border=true" width="100%" alt="Prashanth's Top Languages" />
+    </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="40%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true" width="100%" alt="Prashanth's GitHub Streak" />
+    </td>
+    <td width="60%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=dark" width="100%" alt="Prashanth's Profile Details Graph" />
+    </td>
+  </tr>
+</table>
 <p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
