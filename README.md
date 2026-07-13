@@ -64,7 +64,8 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
 
-<p align="center">
+<p align="left">
+<p>
   <img height="200" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -75,6 +76,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </p>
 <p align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" alt="Profile Details" />
+</p>
 </p>
 
 <p align="center">
