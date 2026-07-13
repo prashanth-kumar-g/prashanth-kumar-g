@@ -88,9 +88,6 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </div>
 
 <p align="center">
-  <img src="assets/line.gif" width="100%">
-</p>
-<p align="center">
     <img src="assets/line.gif" width="100%">
 </p>
 <h2 align="left">
