@@ -64,6 +64,16 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
 
+<p align="center">
+  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true&t=20260714" alt="GitHub Stats" style="width:45%; height:200px; object-fit:contain; background:#1a1a2e; border:1px solid #2d2d44; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.3); margin:4px;" />
+  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia&t=20260714" alt="Top Languages" style="width:45%; height:200px; object-fit:contain; background:#1a1a2e; border:1px solid #2d2d44; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.3); margin:4px;" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prashanth-kumar-g&theme=algolia&t=20260714" alt="GitHub Streak" style="width:45%; height:200px; object-fit:contain; background:#1a1a2e; border:1px solid #2d2d44; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.3); margin:4px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia&t=20260714" alt="Profile Details" style="width:45%; height:200px; object-fit:contain; background:#1a1a2e; border:1px solid #2d2d44; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.3); margin:4px;" />
+</p>
+
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1000px; margin: 0 auto;">
     <div style="flex: 0 0 calc(50% - 12px); height: 200px; background: #1a1a2e; border-radius: 8px; border: 1px solid #2d2d44; box-shadow: 0 4px 6px rgba(0,0,0,0.3); overflow: hidden; display: flex; align-items: center; justify-content: center;">
