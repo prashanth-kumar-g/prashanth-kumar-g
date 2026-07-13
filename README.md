@@ -65,12 +65,12 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true" width="49%" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia" width="49%" height="200" alt="Top Languages" />
+  <img height="200" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia" width="49%" height="200" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" width="49%" height="200" border="1" alt="Profile Details" />
+  <img height="200" src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia" alt="GitHub Streak" />
+  <img height="200" border="1" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" alt="Profile Details" />
 </p>
 
 <p align="center">
