@@ -65,8 +65,8 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true" width="49%" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia" width="49%" height="200" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true" width="48%" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia" width="50%" height="200" alt="GitHub Streak" />
 </p>
 
 <p align="center">
