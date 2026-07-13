@@ -63,10 +63,6 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
-<h2 align="left">
-  <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
-</h2>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <!-- Card 1: GitHub Stats -->
