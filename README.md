@@ -63,24 +63,25 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
 </h2>
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <!-- Card 1: GitHub Stats -->
+  <!-- Card 1: GitHub Stats (Vercel) -->
   <div style="flex: 0 0 calc(50% - 10px); height: 200px; background: #1a1a2e; border-radius: 8px; border: 1px solid #2d2d44; box-shadow: 0 4px 6px rgba(0,0,0,0.3); overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
 
-  <!-- Card 2: Top Languages -->
+  <!-- Card 2: Top Languages (Vercel) -->
   <div style="flex: 0 0 calc(50% - 10px); height: 200px; background: #1a1a2e; border-radius: 8px; border: 1px solid #2d2d44; box-shadow: 0 4px 6px rgba(0,0,0,0.3); overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/top-langs/?username=prashanth-kumar-g&layout=compact&theme=algolia" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
 
-  <!-- Card 3: GitHub Streak (NOW VISIBLE with official service) -->
+  <!-- Card 3: GitHub Streak (YOUR VERCEL DEPLOYMENT) -->
   <div style="flex: 0 0 calc(50% - 10px); height: 200px; background: #1a1a2e; border-radius: 8px; border: 1px solid #2d2d44; box-shadow: 0 4px 6px rgba(0,0,0,0.3); overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-streak-stats-nu-nine-36.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: contain;" />
+    <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app?user=prashanth-kumar-g&theme=algolia" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
 
-  <!-- Card 4: Profile Details -->
+  <!-- Card 4: Profile Details (official API) -->
   <div style="flex: 0 0 calc(50% - 10px); height: 200px; background: #1a1a2e; border-radius: 8px; border: 1px solid #2d2d44; box-shadow: 0 4px 6px rgba(0,0,0,0.3); overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia" alt="Profile Details" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
