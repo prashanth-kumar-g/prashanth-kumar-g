@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&label=Profile+views&style=plastic&color=003DFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&label=Profile+Views&style=plastic&color=003DFF" alt="Profile Views" />
 </p>
 <p>
 <img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
@@ -77,7 +77,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="assets/line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/connect_with_me.gif" width="42px"/> Connect with me
+  <img src="assets/connect_with_me.gif" width="42px"/> Connect With Me
 </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/prashanth-kumar-g/" target="_blank">
