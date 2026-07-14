@@ -1,3 +1,4 @@
+<p>
 <img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
 </p>
 <p align="center">
@@ -70,7 +71,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanth-kumar-g&theme=algolia&refresh=true" width="98.50%" alt="Profile Details" />
 </p>
 <p align="center">
-    <img src="assets/line.gif" width="100%">
+  <img src="assets/line.gif" width="100%">
 </p>
 <h2 align="left">
   <img src="assets/connect_with_me.gif" width="42px"/> Connect with me
