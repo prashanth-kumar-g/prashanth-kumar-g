@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bd3b3f2-6e3f-4ae1-9f18-b3361e60d1b0" /><p align="center">
-    <img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
+<img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
 </p>
 <p align="center">
     <img src="assets/line.gif" width="100%">
