@@ -26,12 +26,13 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Postgre%20SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/React%20JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Internet%20of%20Things-8A2BE2?style=for-the-badge&logo=espressif&logoColor=white" alt="Internet of Things"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNyA0aDJhMiAyIDAgMCAxIDIgMnYyaDJ2MmgtMnYyaDJ2MmgtMnYyaDJ2MmgtMnYyYTIgMiAwIDAgMS0yIDJoLTJ2MmgtMnYtMmgtMnYyaC0ydi0yaC0ydjJIOXYtMkg3YTIgMiAwIDAgMS0yLTJ2LTJIM3YtMmgydi0ySDN2LTJoMlY4SDNWNmgyVjRhMiAyIDAgMCAxIDItMmgydjJoMlYyaDJ2MmgyVjJoMnYyem0tMiAySDl2MTJoOFY2em0tMiAydjhoLTRWOGg0eiIvPjwvc3ZnPg==" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
