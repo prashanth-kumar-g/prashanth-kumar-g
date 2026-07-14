@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&style=plastic&color=5468FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&style=plastic&color=003DFF" alt="Profile Views" />
 </p>
 <p>
 <img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
