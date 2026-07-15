@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&label=Profile+Views&style=plastic&color=003DFF" alt="Profile Views" />
 </p>
 <p>
-<img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
+<img src="assets/intro.gif" alt="Intro GIF" height=300 width=950>
 </p>
 <p align="center">
     <img src="assets/line.gif" width="100%">
