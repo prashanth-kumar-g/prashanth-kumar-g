@@ -51,16 +51,16 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <h3>🛠️ Frameworks</h3>
   <p>
     <img src="assets/tech%20stack/DotNet.svg" alt=".NET" />
-    <img src="assets/tech%20stack/ArduinoCore" alt="Arduino Core" />
-    <img src="assets/tech%20stack/Streamlit" alt="Streamlit" />
-    <img src="assets/tech%20stack/YonoV8.svg" alt="YonoV8" />
+    <img src="assets/tech%20stack/ArduinoCore.svg" alt="Arduino Core" />
+    <img src="assets/tech%20stack/Streamlit.svg" alt="Streamlit" />
+    <img src="assets/tech%20stack/YoloV8.svg" alt="YOLOv8" />
   </p>
   <h3>🧰 Developer Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4=" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Deployment"/>
+    <img src="assets/tech%20stack/Git.svg" alt="Git" />
+    <img src="assets/tech%20stack/VisualStudioCode.svg" alt="Visual Studio Code" />
+    <img src="assets/tech%20stack/Linux.svg" alt="Linux" />
+    <img src="assets/tech%20stack/CloudDeployment.svg" alt="Cloud Deployment" />
   </p>
 </div>
 <p align="center">
