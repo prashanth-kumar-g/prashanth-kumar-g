@@ -20,14 +20,14 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="assets/headers/TechStack.gif" width="38px"/> Tech Stack
 </h2>
 <div align="center">
-  <p>💻 Languages</p>
+  <p><strong><big>💻 Languages</big></strong></p>
   <p>
     <img src="assets/tech%20stack/C%2B%2B.svg" alt="C++" />
     <img src="assets/tech%20stack/Java.svg" alt="Java" />
     <img src="assets/tech%20stack/Javascript.svg" alt="JavaScript" />
     <img src="assets/tech%20stack/Python.svg" alt="Python" />
   </p>
-  <p>🌐 Frontend</p>
+  <p><strong><big>🌐 Frontend</big></strong></p>
   <p>
     <img src="assets/tech%20stack/Html.svg" alt="HTML5" />
     <img src="assets/tech%20stack/Css.svg" alt="CSS3" />
