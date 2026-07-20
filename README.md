@@ -36,24 +36,24 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   </p>
   <h3>⚙️ Backend</h3>
   <p>
-    <img src="https://img.shields.io/badge/Node%20Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS"/>
-    <img src="https://img.shields.io/badge/Express%20Js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+    <img src="assets/tech%20stack/NodeJs.svg" alt="NodeJS" />
+    <img src="assets/tech%20stack/ExpressJs.svg" alt="ExpressJS" />
+    <img src="assets/tech%20stack/SpringBoot.svg" alt="Spring Boot" />
+    <img src="assets/tech%20stack/RestApis.svg" alt="REST APIs" />
   </p>
   <h3>🗄️ Database</h3>
   <p>
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDQuMDIgMiA2LjVDMiA4Ljk4IDYuNDggMTEgMTIgMTFDMTcuNTIgMTEgMjIgOC45OCAyMiA2LjVDMjIgNC4wMiAxNy41MiAyIDEyIDJaTTEyIDE3LjVDNi40OCAxNy41IDIgMTUuNDggMiAxM1YxNy41QzIgMTkuOTggNi40OCAyMiAxMiAyMkMxNy41MiAyMiAyMiAxOS45OCAyMiAxNy41VjEzQzIyIDE1LjQ4IDE3LjUyIDE3LjUgMTIgMTcuNVpNMTIgMTIuNUM2LjQ4IDEyLjUgMiAxMC40OCAyIDhWMTIuNUMyIDE0Ljk4IDYuNDggMTcgMTIgMTdDMTcuNTIgMTcgMjIgMTQuOTggMjIgMTIuNVY4QzIyIDEwLjQ4IDE3LjUyIDEyLjUgMTIgMTIuNVoiLz48L3N2Zz4=" alt="SQL Server"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="assets/tech%20stack/SqlServer.svg" alt="SQL Server" />
+    <img src="assets/tech%20stack/MongoDb.svg" alt="MongoDB" />
+    <img src="assets/tech%20stack/Firebase.svg" alt="Firebase" />
+    <img src="assets/tech%20stack/PostgreSql.svg" alt="PostgreSQL" />
   </p>
   <h3>🛠️ Frameworks</h3>
   <p>
-    <img src="https://custom-icon-badges.demolab.com/badge/.NET-5C2D91?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI%2FPjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI%2BPHN2ZyB0PSIxNzI0NjU3MDczOTg1IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjkgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9Ijk1MjkiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjAwLjk3NjU2MjUiIGhlaWdodD0iMjAwIj48c3R5bGU%2BKiB7IGZpbGw6IHdoaXRlICFpbXBvcnRhbnQ7IH08L3N0eWxlPjxwYXRoIGQ9Ik0xNjYuMTg3MjM1IDc5MC44MzQ3NjRsLTE3LjU4MzYzNiAxNS4wMTA0MjFhNDIuODg2OTE4IDQyLjg4NjkxOCAwIDAgMS00NC4zODc5NiA2LjQzMzAzOGwtNzcuODM5NzU2LTMxLjk1MDc1NEE0Mi44ODY5MTggNDIuODg2OTE4IDAgMCAxIDAuMDAwNDI5IDc0MC44NzE1MDVWMjgzLjI2ODA5MmE0Mi44ODY5MTggNDIuODg2OTE4IDAgMCAxIDI2LjM3NTQ1NC0zOS40NTU5NjRsNzcuODM5NzU2LTMxLjk1MDc1NGE0Mi44ODY5MTggNDIuODg2OTE4IDAgMCAxIDQ0LjM4Nzk2IDcuMDc2MzQxbDE3LjU4MzYzNiAxNS4wMTA0MjJhMjMuNTg3ODA1IDIzLjU4NzgwNSAwIDAgMC0zMy4wMjI5MjYgNS41NzUyOTkgMjEuNDQzNDU5IDIxLjQ0MzQ1OSAwIDAgMC00LjUwMzEyNyAxMy4wODA1MXY1MTguOTMxNzA1YTIzLjgwMjIzOSAyMy44MDIyMzkgMCAwIDAgMjMuODAyMjQgMjMuODAyMjM5IDI0LjQ0NTU0MyAyNC40NDU1NDMgMCAwIDAgMTMuNzIzODEzLTQuNTAzMTI2eiIgZmlsbD0iIzUyMjE4QSIgcC1pZD0iOTUzMCI%2BPC9wYXRoPjxwYXRoIGQ9Ik0xMDI5LjI4NjQ1NiAxNjYuNjE1Njc2djIuMzU4NzhhNDAuNTI4MTM3IDQwLjUyODEzNyAwIDAgMC02Ni4yNjAyODgtMzEuMzA3NDVMMTY2LjE4NzIzNSA3OTAuODM0NzY0bC0xNy41ODM2MzYgMTUuMDEwNDIxYTQyLjg4NjkxOCA0Mi44ODY5MTggMCAwIDEtNDQuMzg3OTYgNi40MzMwMzhsLTc3LjgzOTc1Ni0zMS45NTA3NTRBNDIuODg2OTE4IDQyLjg4NjkxOCAwIDAgMSAwLjAwMDQyOSA3NDAuODcxNTA1di0zLjY0NTM4OGEyNC44NzQ0MTIgMjQuODc0NDEyIDAgMCAwIDI0LjY1OTk3OCAyNC44NzQ0MTIgMjQuNDQ1NTQzIDI0LjQ0NTU0MyAwIDAgMCAxOC4yMjY5NC04LjM2Mjk0OUw3MDcuNjM0NTcyIDE4Ljg3MDI0NEE2NC4zMzAzNzcgNjQuMzMwMzc3IDAgMCAxIDc4MC43NTY3NjcgNi40MzMwMzhsMjEyLjA3NTgwOSAxMDIuMDcwODY0QTY0LjMzMDM3NyA2NC4zMzAzNzcgMCAwIDEgMTAyOS4yODY0NTYgMTY2LjYxNTY3NnoiIGZpbGw9IiM2QzMzQUYiIHAtaWQ9Ijk1MzEiPjwvcGF0aD48cGF0aCBkPSJNMTAyOS4yODY0NTYgODU1LjE2NTE0MVY4NTcuNzM4MzU2YTY0LjMzMDM3NyA2NC4zMzAzNzcgMCAwIDEtMzYuNDUzODggNTcuODk3MzM5bC0yMTIuMDc1ODA5IDEwMi4wNzA4NjRhNjQuMzMwMzc3IDY0LjMzMDM3NyAwIDAgMS03My4xMjIxOTUtMTIuNDM3MjA2TDQyLjg4NzM0NyAyNzAuNDAyMDE3YTI0Ljg3NDQxMiAyNC44NzQ0MTIgMCAwIDAtMzQuOTUyODM4LTEuOTI5OTEyIDI1LjA4ODg0NyAyNS4wODg4NDcgMCAwIDAtNy45MzQwOCAxOC40NDEzNzV2LTMuNjQ1Mzg4YTQyLjg4NjkxOCA0Mi44ODY5MTggMCAwIDEgMjYuMzc1NDU0LTM5LjQ1NTk2NGw3Ny44Mzk3NTYtMzEuOTUwNzU0YTQyLjg4NjkxOCA0Mi44ODY5MTggMCAwIDEgNDQuMzg3OTYgNy4wNzYzNDFsMTcuNTgzNjM2IDE1LjAxMDQyMiA3OTYuODM4OTMzIDY1Mi41MjQ0NTRBNDAuNTI4MTM3IDQwLjUyODEzNyAwIDAgMCAxMDI5LjI4NjQ1NiA4NTUuMTY1MTQxeiIgZmlsbD0iIzg1NENDNyIgcC1pZD0iOTUzMiI%2BPC9wYXRoPjxwYXRoIGQ9Ik03MDcuNjM0NTcyIDEwMDUuMjY5MzUzbDQuNzE3NTYxIDQuMDc0MjU3ek03MTIuMzUyMTMzIDE0Ljc5NTk4N0w3MDcuNjM0NTcyIDE4Ljg3MDI0NHpNOTkyLjgzMjU3NiAxMDguMjg5NDY3TDc4MC43NTY3NjcgNi40MzMwMzhhNjQuMzMwMzc3IDY0LjMzMDM3NyAwIDAgMC02OC40MDQ2MzQgOC4zNjI5NDkgMzcuNzQwNDg4IDM3Ljc0MDQ4OCAwIDAgMSA1Mi41MzY0NzUgOC43OTE4MTggMzYuODgyNzQ5IDM2Ljg4Mjc0OSAwIDAgMSA3LjA3NjM0MSAyMS40NDM0NTl2OTMzLjY0ODJhMzcuNzQwNDg4IDM3Ljc0MDQ4OCAwIDAgMS01OS42MTI4MTYgMzAuNjY0MTQ2IDY0LjMzMDM3NyA2NC4zMzAzNzcgMCAwIDAgNjguNDA0NjM0IDguMzYyOTQ5bDIxMi4wNzU4MDktMTAxLjg1NjQzQTY0LjMzMDM3NyA2NC4zMzAzNzcgMCAwIDAgMTAyOS4yODY0NTYgODU3LjczODM1NlYxNjYuNDAxMjQxYTY0LjMzMDM3NyA2NC4zMzAzNzcgMCAwIDAtMzYuNDUzODgtNTguMTExNzc0eiIgZmlsbD0iI0IxNzlGMSIgcC1pZD0iOTUzMyI%2BPC9wYXRoPjwvc3ZnPg%3D%3D" alt=".NET"/>
-    <img src="https://img.shields.io/badge/Arduino_Core-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Core"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-    <img src="https://img.shields.io/badge/YOLOv8-121011?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLOv8"/>
+    <img src="assets/tech%20stack/DotNet.svg" alt=".NET" />
+    <img src="assets/tech%20stack/ArduinoCore" alt="Arduino Core" />
+    <img src="assets/tech%20stack/Streamlit" alt="Streamlit" />
+    <img src="assets/tech%20stack/YonoV8.svg" alt="YonoV8" />
   </p>
   <h3>🧰 Developer Tools</h3>
   <p>
