@@ -43,7 +43,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   </p>
   <h3>🗄️ Database</h3>
   <p>
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDQuMDIgMiA2LjVDMiA4Ljk4IDYuNDggMTEgMTIgMTFDMTcuNTIgMTEgMjIgOC45OCAyMiA2LjVDMjIgNC4wMiAxNy41MiAyIDEyIDJaTTEyIDE3LjVDNi40OCAxNy41IDIgMTUuNDggMiAxM1YxNy41QzIgMTkuOTggNi40OCAyMiAxMiAyMkMxNy41MiAyMiAyMiAxOS45OCAyMiAxNy41VjEzQzIyIDE1LjQ4IDE3LjUyIDE3LjUgMTIgMTcuNVpNMTIgMTIuNUM2LjQ4IDEyLjUgMiAxMC40OCAyIDhWMTIuNUMyIDE0Ljk4IDYuNDggMTcgMTIgMTdDMTcuNTIgMTcgMjIgMTQuOTggMjIgMTIuNVY4QzIyIDEwLjQ4IDE3LjUyIDEyLjUgMTIgMTIuNVoiLz48L3N2Zz4=" alt="SQL Server"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
