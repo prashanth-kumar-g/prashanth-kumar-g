@@ -52,8 +52,8 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <p>
     <img src="assets/tech%20stack/DotNet.svg" alt=".NET" />
     <img src="assets/tech%20stack/ArduinoCore.svg" alt="Arduino Core" />
-    <img src="assets/tech%20stack/Streamlit.svg" alt="Streamlit" />
     <img src="assets/tech%20stack/YoloV8.svg" alt="YOLOv8" />
+    <img src="assets/tech%20stack/Streamlit.svg" alt="Streamlit" />
   </p>
   <h3>🧰 Developer Tools</h3>
   <p>
