@@ -36,8 +36,8 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   </p>
   <h3>⚙️ Backend</h3>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/>
+    <img src="https://img.shields.io/badge/Node%20Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS"/>
+    <img src="https://img.shields.io/badge/Express%20Js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
   </p>
