@@ -2,22 +2,22 @@
   <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&label=Profile+Views&style=plastic&color=003DFF" alt="Profile Views" />
 </p>
 <p>
-<img src="assets/intro.gif" alt="Intro GIF" height=300 width=900>
+<img src="assets/headers/Intro.gif" alt="Intro GIF" height=300 width=900>
 </p>
 <p align="center">
-    <img src="assets/line.gif" width="100%">
+    <img src="assets/headers/Line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/about_me.gif" width="30px"/> About Me
+  <img src="assets/headers/AboutMe.gif" width="30px"/> About Me
 </h2>
 <p>
 Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong>, currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at <strong>MS Ramaiah Institute of Technology</strong>. I'm passionate about <strong>learning new technologies</strong>, <strong>solving logical problems</strong>, and <strong>exploring how software works</strong>. My interests include <strong>programming</strong>, <strong>data analysis</strong>, and <strong>creating user-friendly desktop and web interfaces</strong>. I’m continuously <strong>improving my skills</strong> in various <strong>programming languages and tools</strong>, and I enjoy working on <strong>academic and personal projects</strong> that challenge me to grow both <strong>technically</strong> and <strong>creatively</strong>.
 </p>
 <p align="center">
-    <img src="assets/line.gif" width="100%">
+    <img src="assets/headers/Line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/tech_stack.gif" width="38px"/> Tech Stack
+  <img src="assets/headers/TechStack.gif" width="38px"/> Tech Stack
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BQzwvdGl0bGU%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi41OTIxIDkuMTk2MnMtLjM1NC0zLjI5OC0zLjYyNy0zLjM5Yy0zLjI3NDEtLjA5LTQuOTU1MiAyLjQ3NC00Ljk1NTIgNi4xNCAwIDMuNjY1MSAxLjg1OCA2LjU5NzIgNS4wNDUxIDYuNTk3MiAzLjE4NCAwIDMuNTM4MS0zLjY2NSAzLjUzODEtMy42NjVsNi4xMDQxLjM2NXMuMzYgMy4zMS0yLjE5NiA1LjgzNmMtMi41NTIgMi41MjQxLTUuNjkwMSAyLjkzNzEtNy44NzYyIDIuOTIwMS0yLjE5LS4wMTctNS4yMjYxLjAzNC04LjE2MDItMi45Ny0yLjkzOC0zLjAxMDEtMy40MzYtNS45MzAyLTMuNDM2LTguODAwMiAwLTIuODcwMS41NTYtNi42NzAyIDQuMDQ3LTkuNTUwMkM3LjQ0NC43MiA5Ljg0OSAwIDEyLjI1NCAwYzEwLjA0MjIgMCAxMC43MTcyIDkuMjYwMiAxMC43MTcyIDkuMjYwMnoiLz48L3N2Zz4%3D" alt="C"/>
@@ -42,10 +42,10 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGludXg8L3RpdGxlPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTIuNSAwYy0uMTU1IDAtLjMxNS0uNDgtNC4yLjMzMy0zLjEgNC44LTMuMiA2LjMtLjc2IDEuMS0uMyAyLTEuMSAzLS44ODUgMS4xLTIuMSAyLjgtMi43IDQuNS0uMjc4LjgtLjQxIDEuNy0uMjg3IDIuNWEuNDI0LjQgMCAwLS4xMS4xYy0uMjYuMy0uNDUuNi0uNjYzLjgtLjE5OS4yLS40ODUuMy0uNzk3LjQtLjMxMy4xLS42NTguMy0uODY0LjctLjkuMi0uMTM2LjQtLjEzMi42IDAgLjE5OS40LjEuNTM2LjEuMzk5LjEuNzI4Ljk3LS4yNDkuNy0uMjggMS4xLS4xMDYgMS41LjE3NC4zLjUzNS41Ljk0LjYuODEuMiAxLjkuMTM1IDIuOC42LjkuNDY2IDEuOS42NyAyLjYuNDcuNS0uMTE3LS40NjQgMS4yLS45NDYuNi0uMyAxLjItLjI2OSAyLjMtLjMzNC43LS41OCAxLjYuMjY3IDIuNi4yLjEzNC4xLjE5OC4xLjMzM2wuM2MuMzkxLjggMS4xIDEuMSAxLjkgMS4xLjc3MS0uNiAxLjYtLjUzNiAyLjMtMS4zLjYzMS0uNzY1IDEuNy0xLjEgMi40LTEuNS4zNDgtLjE5OS42LS40NjkuNi0uODUzLS40LS4yLS44MTEtLjcxNC0xLjR2LS45N2wtLjMtLjNjLS4xNy0uMi0uMjUtLjUzNS0uMzM4LS45MjYtLjg1LS40MDEtLjE4Mi0uNzg2LS40OTItMWgtLjNjLS41OS0uNTQtLjEyMy0uNjctLjE4OC0uMTM1YS4zNTcuNCAwIDAtLjE5LS42NGMuNDMxLTEuMy4yNjQtMi41LS4xNzMtMy43LS41MzMtMS40LTEuNS0yLjYtMi4yLTMuNS0uNzk2LTEtMS42LTItMS42LTMuNC4yNi0yLjIuMjM2LTYuMS0zLjUtNi4xem0uNTI5IDMuNGguMTNjLjIxMyAwIC4zOTYuMS41ODQuMi4xOS4xLjMzLjMuNDM4LjUuMTA1LjMuMTU4LjUuMTY2LjcgMC0uMi0uNC0uNnYuMTA1YS44Ni4xIDAgMS0uNC0uMjFsLS40LS4yNGExLjggMS44IDAgMS0uMTUuNy45NTQgMCAxLS4yMTMuMy43MS43IDAgMC0uODgtLjQyYy0uMTA0LS40NS0uMTk4LS42NC0uMjg0LS4xMzNhMS4zIDEuMyAwIDAtLjIyLS42NmMuNS0uNi4xLS4xMzMuMi0uMTk4LjEtLjEyOC4xLS4yNjQuMS0uNDAydi0uMmExLjIgMS4yIDAgMC0uNjEtLjRjLS40NS0uMTM0LS4xMDEtLjItLjE4My0uMzMzLS44NC0uNjYtLjE2Ny0uMTMyLS4yNjctLjEzMmgtLjE2Yy0uOTMgMC0uMTc2LS4yNjIuMWEuOC44IDAgMC0uMjA1LjMgMS4yIDEuMiAwIDAtLjkuNHYuMTljLjIuMS44LjIuMi4zLS4xOTMtLjY3LS40MzgtLjEzNS0uNjA3LS4yMDJhMS42IDEuNiAwIDEtLjE4LS4ydi0uMmExLjggMS44IDAgMS4xLS43NjhjLjgyLS4yMi4yLS40MDYuNC0uNTMzYS45ODYgMCAxLjYtLjJ6bS0zLjU5aC4zNmMuMTQyIDAgLjI3LjM5OS4xLjE0Ni4xLjI2NC4zLjM0NC41LjkuMi4xNC40LjE1My43di40Yy43LjEuNi4yLS4yLjN2LjhjLS4zLS41Ni0uODMtLjE1Mi4xLS4yNzQuMS0uMzkzLjIuMTItLjktLjE4LS4yNjd2LS4xNWMtLjEyLS4xMzMtLjQtLjItLjgyLS4zMzNhLjYxMy42IDAgMC0uMTY2LS4yNjcuMi4yNDggMCAwLS4xODMtLjY0aC0uMjFjLS43MS0uMTMtLjE4Ni4xYS41NTIuNiAwIDAtLjEyLjMuOTQ0LjkgMCAwLS4yMy4zdi4xNWMuMTIuMS4zNy4yLjguMy40Ni4xLjk4LjIuMTY2LjMuMS4yLjM0LS43LjEtLjExNy4xLS4xNzYuMWEuMzA0LjMgMCAxLS4xMzEuMSAyLjYgMi42IDAgMS0uMjc1LS40MDIgMS44IDEuOCAwIDEtLjE1NS0uNjY3IDEuOCAxLjggMCAxLjEtLjY2OCAxLjQgMS40IDAgMS4zLS41MzVjLjEyOC0uMTMzLjMtLjIuNC0uMnptMS40IDEuNjc4LjEuMTM1LjEuMTMyIDBoLS4xNmMuMTUxLS40NjcuMTgyLS44MjUgMS4xLTEuMi45MTUtLjQgMS42LS4zMzYgMS44LjQ2NS44LjEzLjEuMTguMS42OC4xMzkuMS4yMDkuMS40My4zLjY2Mi43Ljc5MyAxLjIuMTMuNS4xNyAxLjIuMjA1IDEuOXYuM2MuMi4zLjE3LjguMzE5IDEuNCAxLjUgMS4xIDMuNiAxLjUgNS4zLjMzNGEyLjYgMi42IDAgMC40MDItLjUzMyAxLjQgMS40IDAgMC4yNzUtLjMzM2MtLjE4MiAwLS4zMzgtLjMtLjUtLjY3YS42MTUuNiAwIDAtLjMtLjMzNGMtLjEwOC0uMjY3IDAtLjY5Ny4zNDUtMS4yLjM0NS0uNDY3LjkzMS0uOTk1IDEuOC0xLjUuNjMtLjQuOTg2LS44NyAxLjEtMS40LjE2NS0uNTM0LjE0My0xLjEuMTUtMS42LS4yNDUtMS4xLS44NzMtMi4xLTEuMy0yLjgtLjEwNy0uNjUtLjEzNS0uNDA5LjM5Ni44IDEuMSAyLjUuMTIyIDMuOWE4LjEgOC4xIDAgMS42LTIuOWMtLjU2NC0xLjMtMS43LTMuNS0xLjgtNS4zLS40OC4yMTctLjEuMjg5LS4yLjIxOC0uMS4zOC0uMy41OS0uNS4yMS0uMi40NzctLjMuODc2LS4zLjM5LS43NS4xMS0uNDEyIDAtLjczLjEzNS0uMjY4LS4zLS4xMzQtLjUtLjMzNC0uNy0uNGgtLjVjLS40NjcuMTM1LS44LjQwMi0xLjcuN3ptMi4yIDljLS4zNy42LS4zNDMgMS4yLS44ODIgMS40LS41ODguMS0xLjQuMzMzLTEuOC43NjVsLS4yMTEtLjFjLS4zMTUtLjctLjYuMS0uOC4yNjhsLS4zLjJjLS4yMDguMi0uMzA1LjUtLjM5MS45LS44NS40LS4xNTQuOC0uNDA5IDEuMS0uNDg2LjUtLjY0NS45LS42MzYgMS4xbC0uMy0uN3YuMThsLjMtLjEyYy4xNS4zLjE4NS40LjQ5OC42LjYzLjQgMS43LjcxMiAyLjUgMS42LjYxOC43IDEuNCAxLjEgMiAxLjIuNjY0LjEgMS4yLS4yIDEuNi0uODk4bC41LS4zYy4yMS0uNC4xMi0xLjU2IDEuNy4xNzYuNjY4LjQgMS4zLjQ2MyAxLjkuMzcuNzE0LjEgMS4zLjE5NSAxLjguMTIuNDY1LjMuNzk3LjYuOTg0bC0uNDUtLjIyem0tMTAuOC40OWgtLjFjLS41MyAwLS4xMDUuMTU3LS4zNzYuMS0uNzA2LjMtMS43NTJsLS45MSAxLjctLjNjLS4yNDMuNS0uNzU0IDEuMS0xLjIgMS42LS40MzQuNi0uNzcgMS4xLS43MjkgMS42di42YzU3LjctLjQ4IDEuMSAxLjEgMS4zLjY0NS4xIDEuNS4yIDIuNC0uNDY0Ljk2OC0uNTM2IDIuMS0uNDY5IDIuOS0uNjAyLjM2OS0uNjYuNjEtLjIuNzIzLS40LjExLS4yLjExMy0uNjAyLS4xLTEuMnYuNGwtLjItLjNjLS4xMTctLjMzNC43NTItLjI3IDEuMS0uNTUuNDAxLS44My43MS0uOTQtLjItLjMzNC0uNC0uNC0uNy0uNTMzLS4zLS4xMzQtLjYtLjIwMi0uOS0uNDdoLS4ydi0uMmMtLjI1Ni0uMjY4LS40LS42MDEtLjctLjgzOC0uMi0uMjAxLS40LS4zMzYtLjctLjMzNnptNy4yLTkuMWMuNDM1LjIuOTQ1LjUgMS41LjUzNS41NDIgMCAuOTctLjI2NyAxLjMtLjQ2Ni4xNTQtLjEzNC4yOC0uMjY4LjM3My0uMzM1LjE2NC0uMTM0LjE0NC0uMzMzLjc0LS4zMzMtLjEuMTYtLjEuMTM0LS4yLjItLjEuNjYtLjIuMi0uNC4zMzMtLjMuMi0uNy40NjctMS4yLjQ2Ny0uNSAwLTEuMS0uMjY3LTEuNC0uNDY2LS4yLS4xMzUtLjQtLjMzNC0uNi0uNDY3LS4yLS4xMzYtLjEtLjI2Ny0uMy0uMjY3LS4xLjE2LS4xMzQtLjE0Ny0uM2E4LjEgOC4xIDAgMS42OS41em0tMS4xLTEuNlY1LjZjLjYtLjIuNDItLjUtLjEtLjQzLS4yLS4yNy0uMy40LS4xIDAtLjE2LjEtLjE1LjEuNi0uODUtLjEtLjEzNS0uMS0uNTUgMC0uOTIuNDMtLjE0MS42OC0uNTIuMTgtLjE0Ni44LS4xNjMuNjV6bS0uNTUxIDBjLjIuMS4xMTMtLjE2Ni0uMS0uNDcuODYuMS4xNC4xLjUgMC4xMy0uMi4xMzYtLjY4LjEtLjY2LS4xLS4xMzMtLjItLjEzMy0uMS0uMzEtLjItLjQ3LS4zLS41LS45LjMtLjV2LjJoLS4zeiIvPjwvc3ZnPg%3D%3D" alt="Linux"/>
 </p>
 <p align="center">
-  <img src="assets/line.gif" width="100%">
+  <img src="assets/headers/Line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/my_projects.gif" width="32px"/> Projects
+  <img src="assets/headers/Projects.gif" width="32px"/> Projects
 </h2>
 <p align="left">
   <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
@@ -65,10 +65,10 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   </a>
 </p>
 <p align="center">
-    <img src="assets/line.gif" width="100%">
+    <img src="assets/headers/Line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/github_stats.gif" width="45px"/> GitHub Stats
+  <img src="assets/headers/GithubStats.gif" width="45px"/> GitHub Stats
 </h2>
 <p align="center">
   <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&v=5" width="47.75%" height="200" alt="GitHub Stats" />
@@ -76,10 +76,10 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   <img src="https://raw.githubusercontent.com/prashanth-kumar-g/prashanth-kumar-g/main/profile-summary-card-output/algolia/0-profile-details.svg" width="98.50%" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="assets/line.gif" width="100%">
+  <img src="assets/headers/Line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/connect_with_me.gif" width="42px"/> Connect With Me
+  <img src="assets/headers/ConnectWithMe.gif" width="42px"/> Connect With Me
 </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/prashanth-kumar-g/" target="_blank">
@@ -96,10 +96,10 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
   </a>
 </p>
 <p align="center">
-    <img src="assets/line.gif" width="100%">
+    <img src="assets/headers/Line.gif" width="100%">
 </p>
 <p align="center">
   💙 If you like my projects, Give them ⭐ and Share it with friends! <br>
   Made with ❤️ in India
-  <img src="assets/waves.svg" alt="Bottom Waves SVG" width="100%">
+  <img src="assets/headers/Waves.svg" alt="Bottom Waves SVG" width="100%">
 </p>
