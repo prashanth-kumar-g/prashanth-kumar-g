@@ -34,7 +34,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="assets/tech%20stack/ReactJs.svg" alt="ReactJS" />
     <img src="assets/tech%20stack/TailwindCss.svg" alt="Tailwind CSS" />
   </p>
-  <p>⚙️ Backend</p>
+  <p><strong>⚙️ <big> Backend</big></strong></p>
   <p>
     <img src="assets/tech%20stack/NodeJs.svg" alt="NodeJS" />
     <img src="assets/tech%20stack/ExpressJs.svg" alt="ExpressJS" />
