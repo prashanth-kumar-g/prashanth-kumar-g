@@ -19,8 +19,8 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 <h2 align="left">
   <img src="assets/headers/TechStack.gif" width="38px"/> Tech Stack
 </h2>
-<p align="center">
-  <h3>⌨️ Languages</h3>
+<div align="center">
+  <h3>💻 Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java"/>
@@ -55,14 +55,14 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     <img src="https://img.shields.io/badge/YOLOv8-121011?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLOv8"/>
   </p>
-  <h3>🚀 Developer Tools</h3>
+  <h3>🧰 Developer Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Deployment"/>
   </p>
-</p>
+</div>
 <p align="center">
   <img src="assets/headers/Line.gif" width="100%">
 </p>
