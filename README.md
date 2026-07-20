@@ -27,35 +27,35 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="assets/tech%20stack/Javascript.svg" alt="JavaScript" />
     <img src="assets/tech%20stack/Python.svg" alt="Python" />
   </p>
-  <p><strong>🌐 Frontend</strong></p>
+  <p><strong><big>🌐 Frontend</big></strong></p>
   <p>
     <img src="assets/tech%20stack/Html.svg" alt="HTML5" />
     <img src="assets/tech%20stack/Css.svg" alt="CSS3" />
     <img src="assets/tech%20stack/ReactJs.svg" alt="ReactJS" />
     <img src="assets/tech%20stack/TailwindCss.svg" alt="Tailwind CSS" />
   </p>
-  <p><strong>⚙️ <big> Backend</big></strong></p>
+  <p><strong><big>⚙️ Backend</big></strong></p>
   <p>
     <img src="assets/tech%20stack/NodeJs.svg" alt="NodeJS" />
     <img src="assets/tech%20stack/ExpressJs.svg" alt="ExpressJS" />
     <img src="assets/tech%20stack/SpringBoot.svg" alt="Spring Boot" />
     <img src="assets/tech%20stack/RestApis.svg" alt="REST APIs" />
   </p>
-  <h3>🗄️ Database</h3>
+  <p><strong><big>🗄️ Database</big></strong></p>
   <p>
     <img src="assets/tech%20stack/SqlServer.svg" alt="SQL Server" />
     <img src="assets/tech%20stack/MongoDb.svg" alt="MongoDB" />
     <img src="assets/tech%20stack/Firebase.svg" alt="Firebase" />
     <img src="assets/tech%20stack/PostgreSql.svg" alt="PostgreSQL" />
   </p>
-  <h3>🛠️ Frameworks</h3>
+  <p><strong><big>🛠️ Frameworks</big></strong></p>
   <p>
     <img src="assets/tech%20stack/DotNet.svg" alt=".NET" />
     <img src="assets/tech%20stack/ArduinoCore.svg" alt="Arduino Core" />
     <img src="assets/tech%20stack/YoloV8.svg" alt="YOLOv8" />
     <img src="assets/tech%20stack/Streamlit.svg" alt="Streamlit" />
   </p>
-  <h3>🧰 Developer Tools</h3>
+  <p><strong><big>🧰 Developer Tools</big></strong></p>
   <p>
     <img src="assets/tech%20stack/Git.svg" alt="Git" />
     <img src="assets/tech%20stack/VisualStudioCode.svg" alt="Visual Studio Code" />
