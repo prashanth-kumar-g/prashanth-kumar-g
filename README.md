@@ -27,7 +27,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
     <img src="assets/tech%20stack/Javascript.svg" alt="JavaScript" />
     <img src="assets/tech%20stack/Python.svg" alt="Python" />
   </p>
-  <p><strong><big>🌐 Frontend</big></strong></p>
+  <p><strong>🌐 Frontend</strong></p>
   <p>
     <img src="assets/tech%20stack/Html.svg" alt="HTML5" />
     <img src="assets/tech%20stack/Css.svg" alt="CSS3" />
