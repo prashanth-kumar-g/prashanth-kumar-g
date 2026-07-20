@@ -21,6 +21,7 @@ Hi, I'm <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDc3IDIgMiA2LjQ3NyAyIDEyczQuNDc3IDEwIDEwIDEwYzIuNDA0IDAgNC42MDYtLjg0OCA2LjMyNi0yLjI2MWwtMy4zMjgtMy41NTFBNS4zNjIgNS4zNjIgMCAwMTEyIDE3LjA0MmMtMi43MzYgMC00Ljk1OC0yLjIyMi00Ljk1OC00Ljk1OCAwLTIuNzM2IDIuMjIyLTQuOTU4IDQuOTU4LTQuOTU4IDEuNDg3IDAgMi44Mi42NSAzLjczOCAxLjY3N2wzLjIyOS0zLjUyNkMxNy4zODIgMy44MDMgMTQuODY0IDIgMTIgMnoiLz48L3N2Zz4=&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://custom-icon-badges.demolab.com/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VB.NET"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
