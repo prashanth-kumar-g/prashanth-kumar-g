@@ -11,6 +11,9 @@
   <img src="assets/headers/AboutMe.gif" width="30px"/> About Me
 </h2>
 <div>
+    <p>
+  Hi, I am <strong>Prashanth Kumar G</strong> from <strong>Bangalore, India</strong>, currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at <strong>MS Ramaiah Institute of Technology</strong>. I am passionate about <strong>learning new technologies</strong>, <strong>solving logical problems</strong>, and <strong>exploring how software works</strong>.
+  </p>
   <p>
   Currently, my main focus is on <strong>System Design</strong> and working as a <strong>Full Stack Developer</strong>. I enjoy building <strong>complete web applications</strong> from scratch using <strong>Java Spring Boot</strong> for the backend and <strong>React JS</strong> for the frontend, along with secure databases like <strong>PostgreSQL</strong>.
   </p>
@@ -101,9 +104,9 @@
   <img src="assets/headers/GithubStats.gif" width="45px"/> GitHub Stats
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&v=13" width="98.50%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&v=14" width="98.50%" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/prashanth-kumar-g/prashanth-kumar-g/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="39.50%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true&v=13" width="58.50%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true&v=14" width="58.50%" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/prashanth-kumar-g/prashanth-kumar-g/main/profile-summary-card-output/algolia/0-profile-details.svg" width="98.50%" alt="Profile Details" />
 </p>
 <p align="center">
