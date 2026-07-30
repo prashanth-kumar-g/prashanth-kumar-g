@@ -4,9 +4,7 @@
 <p>
 <img src="assets/headers/Intro.gif" alt="Intro GIF" height=300 width=900>
 </p>
-<p align="center">
-    <img src="assets/headers/Line.gif" width="100%">
-</p>
+
 <h2 align="left">
   <img src="assets/headers/AboutMe.gif" width="30px"/> About Me
 </h2>
