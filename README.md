@@ -81,20 +81,23 @@
   <img src="assets/headers/Projects.gif" width="32px"/> Projects
 </h2>
 <p align="left">
+  <a href="https://github.com/prashanth-kumar-g/fingerprint-emergency-identity-retrieval-system">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=fingerprint-emergency-identity-retrieval-system&theme=algolia&v=1" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia&v=1" />
+  </a>
+  <a href="https://github.com/prashanth-kumar-g/ai-fire-fighting-robot-iot">
+    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=ai-fire-fighting-robot-iot&theme=algolia&v=1" />
+  </a>
   <a href="https://github.com/prashanth-kumar-g/student-attendance-management-system">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=student-attendance-management-system&theme=algolia&v=1" />
   </a>
   <a href="https://github.com/prashanth-kumar-g/tic-tac-toe">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=tic-tac-toe&theme=algolia&v=1" />
   </a>
-  <a href="https://github.com/prashanth-kumar-g/stock-volatility-calculator">
-    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=stock-volatility-calculator&theme=algolia&v=1" />
-  </a>
   <a href="https://github.com/prashanth-kumar-g/smart-document-analyzer">
     <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=smart-document-analyzer&theme=algolia&v=1" />
-  </a>
-  <a href="https://github.com/prashanth-kumar-g/ai-fire-fighting-robot-iot">
-    <img align="center" src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api/pin/?username=prashanth-kumar-g&repo=ai-fire-fighting-robot-iot&theme=algolia&v=1" />
   </a>
 </p>
 <p align="center">
@@ -104,9 +107,9 @@
   <img src="assets/headers/GithubStats.gif" width="45px"/> GitHub Stats
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&v=14" width="98.50%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&v=15" width="98.50%" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/prashanth-kumar-g/prashanth-kumar-g/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="39.50%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true&v=14" width="58.50%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-prashanth-kumar-gs-projects.vercel.app/?user=prashanth-kumar-g&theme=algolia&hide_border=true&v=15" width="58.50%" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/prashanth-kumar-g/prashanth-kumar-g/main/profile-summary-card-output/algolia/0-profile-details.svg" width="98.50%" alt="Profile Details" />
 </p>
 <p align="center">
