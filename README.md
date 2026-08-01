@@ -18,9 +18,6 @@
   Currently, my main focus is on <strong>System Design</strong> and working as a <strong>Full Stack Developer</strong>. I enjoy building <strong>complete web applications</strong> from scratch using <strong>Java Spring Boot</strong> for the backend and <strong>React JS</strong> for the frontend, along with secure databases like <strong>PostgreSQL</strong>.
   </p>
   <p>
-  My other core interests include the <strong>Internet of Things (IoT)</strong> and <strong>Generative AI</strong>. I enjoy working on <strong>academic projects</strong> that connect software with <strong>physical hardware</strong>, like <strong>biometric scanners</strong>, to solve <strong>practical problems</strong>.
-  </p>
-  <p>
   To keep my logic sharp, I practice <strong>coding regularly</strong> on <strong>Leetcode</strong>. As I move forward in my professional journey, I am <strong>continuously improving my skills</strong> and seeking opportunities that challenge me to grow both <strong>technically</strong> and <strong>creatively</strong>.
   </p>
 </div>
