@@ -103,9 +103,7 @@
 <p align="center">
     <img src="assets/headers/Line.gif" width="100%">
 </p>
-<h2 align="left">
-  <img src="assets/headers/GithubStats.gif" width="45px"/> GitHub Stats
-</h2>
+
 <p align="center">
   <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true&v=22" width="98.50%" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/prashanth-kumar-g/prashanth-kumar-g/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="39.50%" alt="Top Languages" />
