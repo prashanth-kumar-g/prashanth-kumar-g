@@ -131,6 +131,9 @@
   <a href="https://www.youtube.com/@prashanth-kumar-g" target="_blank">
     <img src="assets/connect%20with%20me/Youtube.svg" alt="YouTube"/>
   </a>
+  <a href="mailto:prashanthkumarg2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 <p align="center">
     <img src="assets/headers/Line.gif" width="100%">
