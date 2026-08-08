@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashanth-kumar-g&label=Profile+Views&style=plastic&color=003DFF" alt="Profile Views" />
-</p>
+
 <p>
 <img src="assets/headers/Intro.gif" alt="Intro GIF" height=300 width=900>
 </p>
