@@ -135,7 +135,7 @@
     <img src="assets/connect%20with%20me/Gmail.svg" alt="Email"/>
   </a>
   <a href="http://prashanth-kumar-g.github.io" target="_blank">
-    <img src="assets/connect%20with%20me/Portfolio_Badge1.svg" alt="Portfolio"/>
+    <img src="assets/connect%20with%20me/Portfolio_Badge2.svg" alt="Portfolio"/>
   </a>
 </p>
 <p align="center">
