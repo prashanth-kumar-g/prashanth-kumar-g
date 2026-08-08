@@ -131,20 +131,11 @@
   <a href="https://www.youtube.com/@prashanth-kumar-g" target="_blank">
     <img src="assets/connect%20with%20me/Youtube.svg" alt="YouTube"/>
   </a>
-  <a href="mailto:prashanthkumarg2004@gmail.com" target="_blank">
-    <img src="assets/connect%20with%20me/Gmail.svg" alt="Email"/>
-  </a>
   <a href="http://prashanth-kumar-g.github.io" target="_blank">
-    <img src="assets/connect%20with%20me/Portfolio_Badge2.svg" alt="Portfolio"/>
-  </a>
-  <a href="http://prashanth-kumar-g.github.io" target="_blank">
-    <img src="assets/connect%20with%20me/Portfolio_Badge3.svg" alt="Portfolio"/>
+    <img src="assets/connect%20with%20me/Portfolio_Badge5.svg" alt="Portfolio"/>
   </a>
   <a href="http://prashanth-kumar-g.github.io" target="_blank">
     <img src="assets/connect%20with%20me/Portfolio_Badge4.svg" alt="Portfolio"/>
-  </a>
-  <a href="http://prashanth-kumar-g.github.io" target="_blank">
-    <img src="assets/connect%20with%20me/Portfolio_Badge5.svg" alt="Portfolio"/>
   </a>
 </p>
 <p align="center">
