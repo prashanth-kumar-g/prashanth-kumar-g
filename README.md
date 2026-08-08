@@ -134,6 +134,9 @@
   <a href="mailto:prashanthkumarg2004@gmail.com" target="_blank">
     <img src="assets/connect%20with%20me/Gmail.svg" alt="Email"/>
   </a>
+  <a href="http://prashanth-kumar-g.github.io" target="_blank">
+    <img src="assets/connect%20with%20me/diamond.png" alt="Portfolio" width="32" style="border-radius: 50%;"/>
+  </a>
 </p>
 <p align="center">
     <img src="assets/headers/Line.gif" width="100%">
