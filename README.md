@@ -104,7 +104,7 @@
     <img src="assets/headers/Line.gif" width="100%">
 </p>
 <h2 align="left">
-  <img src="assets/headers/GitHubStats.gif" width="30px"/> GitHub Stats
+  <img src="assets/headers/GitHubStats.gif" width="32px"/> GitHub Stats
 </h2>
 <p align="center">
   <img src="https://github-readme-stats-prashanth-kumar-gs-projects.vercel.app/api?username=prashanth-kumar-g&show_icons=true&theme=algolia&hide_border=true" width="98.50%" alt="GitHub Stats" />
