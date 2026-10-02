@@ -131,7 +131,7 @@
   <a href="https://www.youtube.com/@prashanth-kumar-g" target="_blank">
     <img src="assets/connect%20with%20me/Youtube.svg" alt="YouTube"/>
   </a>
-  <a href="https://www.youtube.com/@prashanth-kumar-g" target="_blank">
+  <a href="mailto:prashanthkumarg2004@gmail.com" target="_blank">
     <img src="assets/connect%20with%20me/Gmail.svg" alt="Gmail"/>
   </a>
   <a href="https://prashanth-kumar-g.github.io" target="_blank">
